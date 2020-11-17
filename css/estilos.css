@@ -23,11 +23,11 @@ h2{
 .tareas{
     list-style: none;
 }
-.tareas__link{
+.tareas__link , .tarea__link-2{
     text-decoration: none;
     color: yellow;
     font-family: sans-serif;
 }
-.tareas__link:hover{
+.tareas__link .tarea__link-2 :hover{
     font-size: 1.2rem;
 }
